@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  },
+  "scripts": {
+    "cypress": "npx cypress run --headed --spec",
+    "cypress-dev": "npx cypress open"
+  }
+}
